@@ -1,5 +1,5 @@
 # Prisma-Schema
-## Next-generation Node.js and TypeScript ORM
+Next-generation Node.js and TypeScript ORM
 
 ## Prisma 
 Prisma schema file adalah (singkat: file skema, skema atau skema Prisma) adalah file konfigurasi utama untuk pengaturan Prisma Anda. Ini biasanya disebut schema
@@ -18,5 +18,5 @@ Prisma schema file adalah (singkat: file skema, skema atau skema Prisma) adalah 
 - npx prisma db push or npx prisma db pull
 - npx prisma generate
 
-# source: https://www.prisma.io/  
-# written by: Anju Lubis
+## Source from : https://www.prisma.io/  
+## Written by: Anju Lubis
